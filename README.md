@@ -212,7 +212,7 @@ Real medical datasets should replace synthetic data for production research.
 
  ## Authors:
 * 1. AVINASH.C, 25BCY10032
-* 2. ANIRUDH VAMSI, 25MIB10033
+* 2. ANIRUDH VAMSI.G, 25MIB10033
 * 3. PAWINHARII.R, 25BOE10041
 
 ---
