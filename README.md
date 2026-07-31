@@ -1,5 +1,5 @@
 
-# AI Medical Early Disease Risk Prediction
+# EARLYPULSE AI
 
 ## Disclaimer
 
