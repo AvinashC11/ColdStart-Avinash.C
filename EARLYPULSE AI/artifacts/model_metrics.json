@@ -1,0 +1,10 @@
+{
+    "random_forest": {
+        "accuracy": 1.0,
+        "f1_score": 1.0
+    },
+    "xgboost": {
+        "accuracy": 1.0,
+        "f1_score": 1.0
+    }
+}
