@@ -1,0 +1,88 @@
+TITLE:
+AI Medical Early Disease Risk Prediction
+
+-----------------------------------
+
+SLIDE 1
+
+Problem
+
+- Diseases are detected too late
+- Early symptoms are ignored
+- People lack preventive guidance
+
+-----------------------------------
+
+SLIDE 2
+
+Solution
+
+- AI-powered risk prediction
+- Explainable results
+- Preventive recommendations
+
+-----------------------------------
+
+SLIDE 3
+
+How It Works
+
+Patient Input
+        ↓
+Prediction
+        ↓
+Explanation
+        ↓
+Recommendations
+
+-----------------------------------
+
+SLIDE 4
+
+Technology Stack
+
+- Python
+- FastAPI
+- Streamlit
+- XGBoost
+- SHAP
+- SQLite
+- Plotly
+
+-----------------------------------
+
+SLIDE 5
+
+Demo
+
+- Enter patient data
+- Generate prediction
+- Explain risk
+- Show recommendations
+
+-----------------------------------
+
+SLIDE 6
+
+Impact
+
+- Better awareness
+- Faster screening
+- Preventive healthcare
+
+-----------------------------------
+
+SLIDE 7
+
+Future Scope
+
+- Real hospital datasets
+- Wearable integration
+- Multi-disease prediction
+- Telemedicine support
+
+-----------------------------------
+
+THANK YOU
+
+Questions?
