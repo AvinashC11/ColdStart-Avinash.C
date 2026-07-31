@@ -1,0 +1,32 @@
+version: "3.9"
+
+services:
+
+  frontend:
+    build: .
+    container_name: medical-risk-frontend
+
+    ports:
+      - "8501:8501"
+
+    volumes:
+      - .:/app
+
+    restart: unless-stopped
+
+  backend:
+    build: .
+    container_name: medical-risk-backend
+
+    command: >
+      uvicorn backend.app:app
+      --host 0.0.0.0
+      --port 8000
+
+    ports:
+      - "8000:8000"
+
+    volumes:
+      - .:/app
+
+    restart: unless-stopped

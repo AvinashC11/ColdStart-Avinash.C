@@ -1,0 +1,70 @@
+# Python
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+
+venv/
+.env/
+env/
+
+# Environment files
+
+.env
+.env.local
+
+# Logs
+
+*.log
+logs/
+
+# SQLite
+
+*.db
+*.sqlite3
+
+# Models
+
+artifacts/
+*.pkl
+*.joblib
+
+# Test cache
+
+.pytest_cache/
+.coverage
+
+# IDE
+
+.vscode/
+.idea/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Operating system
+
+.DS_Store
+Thumbs.db
+
+# Streamlit
+
+.streamlit/
+
+# Temporary
+
+tmp/
+temp/
+
+# Build
+
+dist/
+build/
+
+# Docker
+
+docker-data/
